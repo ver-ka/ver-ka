@@ -10,4 +10,4 @@ looking for internships and entry-level roles in cs / cybersecurity
 
 <a href="https://www.linkedin.com/in/andrew-lin-vt/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" height="25" /></a>
 
-please feel free to reach out on linkedin!
+please feel free to reach out on linkedin or at andrewlin190@gmail.com!
